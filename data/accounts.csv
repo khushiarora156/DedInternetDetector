@@ -1,0 +1,17 @@
+accountId,username,followers,following,totalPosts,accountAgeDays,averageLikes,averageComments,repeatedComments,totalCommentsObserved,commentsInTenMinutes
+ACC_001,emma_travels,12500,420,380,850,280.0,32.0,2,40,3
+ACC_002,tech_blogger_dan,4200,680,510,1200,65.0,12.0,1,25,2
+ACC_003,crypto_pump_bot99,45,2100,89,12,3.0,1.0,18,20,28
+ACC_004,fast_reply_spammer,85,1450,34,18,12.0,2.0,32,35,45
+ACC_005,giveaway_echo_bot,210,3200,150,15,4.0,1.0,45,50,12
+ACC_006,engagement_booster_pro,120,400,210,250,95.0,45.0,2,20,4
+ACC_007,clara_art_studio,8900,530,240,620,180.0,24.0,3,30,4
+ACC_008,newbie_gamer_joe,60,95,15,8,4.0,2.0,1,10,2
+ACC_009,astroturf_network_07,310,3200,420,22,12.0,5.0,28,30,35
+ACC_010,organic_cafe_reviews,2100,450,185,410,48.0,8.0,2,20,1
+ACC_011,follow_churner_3000,12,3800,5,180,1.0,0.0,0,0,0
+ACC_012,viral_loop_farm,80,650,45,190,140.0,75.0,0,15,3
+ACC_013,copy_paste_troll,450,380,310,95,8.0,4.0,26,28,15
+ACC_014,rapid_survey_spammer,550,420,120,80,15.0,6.0,8,22,38
+ACC_015,stealth_syndicate_node,25,1800,60,14,35.0,20.0,22,25,29
+ACC_016,student_coder_alex,35,42,10,180,3.0,1.0,0,5,1
