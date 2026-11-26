@@ -1,0 +1,33 @@
+# Maven target build folder
+target/
+*.jar
+*.war
+*.ear
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# VS Code / Antigravity
+.vscode/
+.antigravity/
+
+# macOS / Windows OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Generated reports during testing (preserve directory structure)
+reports/*.csv
+reports/*.txt
+!reports/.gitkeep
+
+target/
